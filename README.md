@@ -1,6 +1,6 @@
 $ apt update && apt upgrade -y
 
-$ pkg install git
+$ pkg install git -y
 
 $ git clone https://github.com/Fearless327/ZIP-Pass-BruteForce.git
 
