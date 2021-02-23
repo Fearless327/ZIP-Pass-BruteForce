@@ -1,10 +1,8 @@
-$ apt update && apt upgrade -y
-
 $ pkg install git -y
 
 $ git clone https://github.com/Fearless327/ZIP-Pass-BruteForce.git
 
-$ pkg install python2
+$ pkg install python2 -y
 
 $ pip2 install -r requirements.txt
 
